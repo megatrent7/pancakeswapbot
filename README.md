@@ -1,4 +1,4 @@
-# pancakeswappredictionsbot
+# pancakeswap predictions bot
 will bet on outcome.
 
 will collect payout. 
